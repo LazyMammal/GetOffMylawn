@@ -1,0 +1,105 @@
+PRIORITIY:
+~~~~
+
+UI:
+    - spawn sprites (stars, coins, points) on scoring "hit"
+    - FIX Collision: bingo sound on poster hit
+
+Scene:
+    - hose
+        - damp spots where water drops soak ground / objects
+        - farmer joe in lawnchair
+
+DONE:
+~~~~
+
+UI:
+	- shorten fade duration
+    - spray sounds
+    - cats angry meows
+
+Info page:
+  CC-BY:
+    "Lowpoly Siamese Cat" by Gwinna
+    Released under Creative Commons Attribution 3.0
+    Downloaded from http://www.blendswap.com/blends/view/57118
+  Game:
+    by Dennis Carlstrom
+    for PTBO Game Jam 01
+    August 13-14, 2016
+
+Characters:
+    - cat
+        - linear movement
+            - movement for changing elevation?
+        - rotate to face movement direction
+        - pathfinding for fences
+        - pathfinding for gardens
+        - walking along fence top
+        - jumping down from fence
+        - running away
+
+Game mechanics:
+    - proper mouse-look for aiming
+    - target circle on ground where cursor is aiming
+    - get points for splashing ptbo arms during fence flip
+    - player loses when entire garden is ruined
+
+Camera: 
+    - 3D top-down, ortho
+    - fixed view of backyard
+
+Controls:
+    - mouse-look to aim hose
+    - Fire1 to send water jet
+
+Small wins:
+    - points for hitting/shooing cat
+
+Scene:
+    - gardens
+        - dirt
+        - flowers
+    - hose
+        - improve stream of water
+    - fence
+        - Ptbo Coat of Arms on back of fence panels
+
+ORIGINAL:
+~~~~~~~~
+
+Characters:
+    - cats
+        - walk in from bottom of screen
+        - digging* in garden
+        - hissing, back arched
+        - leashed and unleashed
+        - boss cat
+    - leash
+        - attach to collar
+        - string to thought bubble
+        - thought bubble 'follows' collar
+    - old dude (stationary/standing)
+        - hat
+        - clothing
+    - neighbours
+        - walk in from bottom 
+        - pop up over fence at top
+
+Controls:
+    - Fire2 to swap jet pattern?
+
+Game mechanics:
+    - lose points for hitting cats /w leashes
+    - cats come in waves (increasing difficulty)
+    - player wins when all waves have been repelled
+    - player can upgrade between rounds/games (velocity, spray patterns) 
+    - boss cat
+
+Scene:
+    - grass
+    - hose
+        - sprayer
+        - sprinkler
+    - gardens
+        - plants (carrots, beats, etc)
